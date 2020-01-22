@@ -1,0 +1,56 @@
+html{
+	/*background-color: #2f3640;*/
+}
+body{
+	padding: 22px;
+}
+pre{
+	color: #ecf0f1;
+}
+label{
+	color: #fff;
+}
+.add-left-padding{
+	padding-left: 25px;
+}
+.add-card-margin{
+	margin: 8px;
+	margin-left: 50px;
+}
+.add-timeline-margin{
+	margin-bottom: 3px;
+}
+.div-margin{
+	margin-left: 10px;
+}
+.no-padding{
+	padding: 0px;
+}
+/*pre .MT{
+	color: #B53471;
+}*/
+/*pre .ST{
+	color: #ED4C67;
+}*/
+/*pre .H1{
+	color: #FDA7DF;
+}*/
+/*pre .H2{
+	color: #9980FA;
+}*/
+/*pre .D1{
+	color: #009432;
+}*/
+/*pre .D2{
+	color: #0652DD;
+}*/
+/*pre .D3{
+	color: #12CBC4;
+}*/
+pre .D4{
+	color: #C4E538;
+}
+
+.my-light-blue{
+	color: #f1c40f;
+}
